@@ -1,0 +1,13 @@
+{
+  "name": "Soundify — Your music, your vibe",
+  "short_name": "Soundify",
+  "description": "Discover music and organize your library.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#070c09",
+  "theme_color": "#07110c",
+  "icons": [
+    {"src":"assets/logo.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
